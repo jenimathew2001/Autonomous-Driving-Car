@@ -76,4 +76,4 @@ This combined objective ensures that both regression and classification aspects 
 
 ---
 
-> 🎓 **Project conducted as part of MSc AI & Data Science at the University of Nottingham**
+> 🎓 **Project conducted as part of MSc Machine Learning in Science at the University of Nottingham**
